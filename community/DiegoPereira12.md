@@ -1,8 +1,8 @@
-# Octoeli
-Olá! Eu sou a Octoeli e ajudo a Eli nos tutoriais de Git e GitHub.
+Olá!! Seja bem vindo. Eu sou Diego Pereira ✌🏾
 
-## Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/octoeli)
+I’m currently studying ...
+  
+📚 Python, Django, Flask, Javascript, HTML & CSS 📚 
 
 ## Habilidades
 [![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
